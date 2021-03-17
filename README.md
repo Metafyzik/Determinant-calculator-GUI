@@ -1,1 +1,5 @@
-# Determinant-calculator-GUI
+# Determinant calculator GUI
+
+## Output
+
+![](imgages/gui_windows.PNG)
