@@ -1,5 +1,5 @@
 # Determinant calculator 
-Simple gui created in PyQt5. 
+A simple gui created in PyQt5. 
 
 ## How it looks
 
