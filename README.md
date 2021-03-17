@@ -1,5 +1,5 @@
 # Determinant calculator 
-Simple gui created in PyQt5. using switching between three windows
+Simple gui created in PyQt5. 
 
 ## How it looks
 
