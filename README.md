@@ -1,5 +1,5 @@
 # Determinant calculator GUI
 
-## Output
+## How it looks
 
-![](imgages/gui_windows.PNG)
+![](images/gui_windows.PNG)
